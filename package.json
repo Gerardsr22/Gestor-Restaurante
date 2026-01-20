@@ -1,0 +1,23 @@
+{
+  "name": "gestor-restaurante",
+  "version": "1.0.0",
+  "description": "Proyecto de pràctica  de POO con Typescript.",
+  "homepage": "https://github.com/Gerardsr22/Gestor-Restaurante#readme",
+  "bugs": {
+    "url": "https://github.com/Gerardsr22/Gestor-Restaurante/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerardsr22/Gestor-Restaurante.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
